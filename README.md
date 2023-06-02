@@ -1,3 +1,5 @@
 # client-server
 
-** A simple chat, for exploring sockets. **
+A simple chat, for exploring sockets.
+Server side.
+
